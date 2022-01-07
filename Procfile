@@ -1,1 +1,1 @@
-web: ./setup.sh && mercury runserver 0.0.0.0:$PORT
+web: mercury runserver 0.0.0.0:$PORT
