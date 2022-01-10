@@ -1,2 +1,2 @@
-mljar-mercury
+mljar-mercury==0.0.5
 gunicorn
