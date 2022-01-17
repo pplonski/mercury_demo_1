@@ -1,3 +1,4 @@
-mljar-mercury==0.0.9
+mljar-mercury
 plotly_express
+seaborn
 gunicorn
